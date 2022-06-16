@@ -13,15 +13,6 @@ class HashTable:
     # 2. Lets initialze our self.table = a new list thats bigger(2 x table_size) and empty
     # 3. Re-put all the old values in our copy (#1) back into the hash table by calling self.put(value)
 
-        # self.new_size = 2 * self.table_size
-        # self.table_size = self.new_size
-        # self.table = [None] * self.new_size
-
-        # for i in range(self.new_size):
-        #     for j in range(10): #old table size
-        #        val = self.get(i)
-        #        self.put(val)
-
         old = []
         for bucket in self.table:
             if bucket is not None:
@@ -30,12 +21,6 @@ class HashTable:
         self.table = 2 * self.table_size * [None]
         for items in old:
             self.put(items)
-
-        # pass
-
-
-
-
 
 
     def put(self, value):
