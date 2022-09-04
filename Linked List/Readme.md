@@ -1,6 +1,6 @@
 Concept of the Linked List Data Structure:
-chain of nodes <br \>
-each node contain:
+chain of nodes__
+each node contain:__
   1. Data 
   2. Link
   
@@ -9,9 +9,9 @@ each node contain:
       1.1 Head - first element of the list.
       1.2 Tail - last element of the list.
       
-Each node contain the reference of the next node. <br \>
-Nodes are stored randomly in the memory.  <br \>
-No continuous memory allocation in the linked list. <br \>
+Each node contain the reference of the next node.__
+Nodes are stored randomly in the memory.__
+No continuous memory allocation in the linked list.__
  
 Types of Linked List:
   1. Single Linked List
@@ -35,10 +35,10 @@ Disadvantages:
   1. Needs extra memory.
   2. Random access of nodes is not possible.
   
-Applications:
-    1. Music Plsyer
-    2. Image Viewer
-    3. Treasure Hunt Game
-    4. Relay Race
+Applications:__
+    1. Music Plsyer__
+    2. Image Viewer__
+    3. Treasure Hunt Game__
+    4. Relay Race__
   
   
