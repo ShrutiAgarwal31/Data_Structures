@@ -5,7 +5,7 @@ Concept of the Linked List Data Structure:
   2. Link
   
   Terms for Linked List:
-    1. Node
+      >> Node
       >> 1.1 Head - first element of the list.
       >> 1.2 Tail - last element of the list.
       
