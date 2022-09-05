@@ -7,9 +7,9 @@ Operations:
   1. Adding elements --> break the existing link and add the node.
     Adding could be perform at the following positions:
     1. begin
-      >> create a new node.
-      >> point the next(newnode) to the first node of previously created SLL.
-      >> change the head. point the head pointer to the new-node.
+      * create a new node.
+      * point the next(newnode) to the first node of previously created SLL.
+      * change the head. point the head pointer to the new-node.
     2. end
       >> create a new node.
       >> traversing to the last node.
