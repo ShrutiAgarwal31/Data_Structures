@@ -26,6 +26,21 @@ Terminology used:
         >> Depth of root node - 0
       * Depth of a Tree - Total number of edges from root to the last leaf node.
 
+Types of Tree:
+  1. General Tree - No limitation on the number of chil nodes.
+  2. Binary Tree - At most 2 child nodes. (0, 1, 2) nodes are allowed.
+  
+Types of Binary Tree - 
+  1. Full Binary Tree - Every node has either 0 or 2 children.
+  2. Complete Binary Tree - 
+  3. Perfect Binary Tree - 
+  4. Balanced Binary Tree - 
+  5. Pathological Binary Tree - 
+  
+  ![image](https://user-images.githubusercontent.com/78465546/189138136-7c28dc6d-a01f-4502-8951-3cdb4e3559c0.png)
+
+  
+
 Charecteristics:
   1. If tree have N nodes =>Number of Edges = (N-1)
   2. Every child has one Parent, but a Parent can have multiple child.
