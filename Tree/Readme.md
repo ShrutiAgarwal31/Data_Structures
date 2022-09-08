@@ -34,8 +34,8 @@ Types of Binary Tree -
   1. Full Binary Tree - Every node has either 0 or 2 children.
   2. Complete Binary Tree - All the level except the last level is filled(i.e has 2 nodes). For the last level, it can be completely filled or fill from left to right. 
   3. Perfect Binary Tree - all the internal nodes have 2 children and all the leaf nodes are present in the same level.  
-  4. Balanced Binary Tree - 
-  5. Pathological Binary Tree - 
+  4. Balanced Binary Tree - height of left and right subtree is differed bt atmost 1. Do this for all the nodes of a BT.
+  5. Pathological Binary Tree - also known as degenerate/skewed binary tree. every parent node has atmost one child node.
   
   ![image](https://user-images.githubusercontent.com/78465546/189138318-cd2d3fec-4da9-420b-a263-96ea67886396.png)
   
