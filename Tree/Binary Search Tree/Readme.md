@@ -18,19 +18,19 @@ Operations:
   2. Deletion
   3. Traversal
     
-    * In-Order
-        1. traverse the left sub-tree
-        2. visit the root node
-        3. traverse the right sub-tree
-    * Pre-Order  
-        1. visit the root node
-        2. traverse the left sub-tree
-        3. traverse the right sub-tree
-    * Post-Order
-        1. traverse the left sub-tree
-        2. traverse the right sub-tree
-        3. visit the root node
-    * Level-Order - all the nodes of a levels are accessed before jumping onto the next level 
+      * In-Order
+          1. traverse the left sub-tree
+          2. visit the root node
+          3. traverse the right sub-tree
+      * Pre-Order  
+          1. visit the root node
+          2. traverse the left sub-tree
+          3. traverse the right sub-tree
+      * Post-Order
+          1. traverse the left sub-tree
+          2. traverse the right sub-tree
+          3. visit the root node
+      * Level-Order - all the nodes of a levels are accessed before jumping onto the next level 
   4. Searching
   
 - Smallest node always occur in the left sub-tree i.e the leftmost node is the smallest value.
