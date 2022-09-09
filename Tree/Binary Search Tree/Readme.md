@@ -5,11 +5,12 @@ Binary Search Tree Concept:
   2. left subtree of the node contains value lesser than the parent's value
   3. right subtree of the node contains value greater than the parent's value
   4. both left and right subtree must be a BST
--BST for duplicate keys__
-assumptions made in certain books: 
-  1. duplicate values are not allowed in BST.
-  2. if duplicate values are present then include it in the left node.
-  3. if duplicate values are present then include it in the right node.
+
+- BST for duplicate keys
+  * assumptions made in certain books: 
+    1. duplicate values are not allowed in BST.
+    2. if duplicate values are present then include it in the left node.
+    3. if duplicate values are present then include it in the right node.
   
 
 Operations:
