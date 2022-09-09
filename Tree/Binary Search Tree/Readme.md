@@ -17,6 +17,7 @@ Operations:
   1. Insertion
   2. Deletion
   3. Traversal
+    
     * In-Order
         1. traverse the left sub-tree
         2. visit the root node
